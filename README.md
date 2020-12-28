@@ -31,9 +31,8 @@ Africa Born and pround :us: naturalized citizen.
 
 📈 Google Analytics
 * Tableau 
- * Git 
-
-Microsoft Office Tools
+* Git 
+* Microsoft Office Tools
 
 #  Computer Aided Design
 
