@@ -30,7 +30,8 @@ Africa Born and pround :us: naturalized citizen.
 * Tensorflow 2.0
 * Tensorflow-Keras
 * PyTorch
-* Matlab's Machine Learning Toolbox 
+* Matlab's Machine Learning Toolbox
+* NVIDIA Deep Learning GPU Training System (DIGITS) 
 
 ## Software
 
