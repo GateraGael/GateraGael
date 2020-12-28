@@ -7,6 +7,8 @@
 Africa Born and pround :us: naturalized citizen.
 
 
+:us:
+
 ## Educational Background
 
 :rocket: B.S. Aerospace Engineering 
