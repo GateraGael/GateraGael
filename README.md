@@ -33,16 +33,16 @@ Africa Born and pround :us: naturalized citizen.
 * Matlab's Machine Learning Toolbox
 * NVIDIA Deep Learning GPU Training System (DIGITS) 
 
-## Software 📈
-
-* Google Analytics
-* Tableau 
-* Git 
-* Microsoft Office Tools
-
 ##  Computer Aided Design :computer_mouse:
 
 * SolidWorks
 * Autodesk Inventor
 * PTC Creo/Pro-Engineer
+
+## Analytics Software 📈
+
+* Google Analytics
+* Tableau 
+* Microsoft Office Tools
+
 
