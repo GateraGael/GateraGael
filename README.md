@@ -29,14 +29,15 @@ Africa Born and pround :us: naturalized citizen.
 
 ## Software
 
-📈   Tableau | Google Analytics
+📈 Google Analytics
+* Tableau 
+ * Git 
 
-🔧   Git | Microsoft Office Tools
+Microsoft Office Tools
 
 #  Computer Aided Design
 
-:computer_mouse:
+:computer_mouse: SolidWorks
 * Autodesk Inventor
-* SolidWorks
 * PTC Creo/Pro-Engineer
 
