@@ -5,7 +5,7 @@
 --> 
 
 Africa Born and pround :us: naturalized citizen.
-Feel free to check out all my repositories and email me at rgateragael@gmail.com if you are interested in collaborating.
+Feel free to check out all my repositories and email me at rgateragael@gmail.com if you are interested in collaborating. Futhermore, please contact me if you are interested in doing Kaggle Competitions.
 
 Looking for collaborators especially in the following:
 
