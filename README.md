@@ -33,7 +33,9 @@ Africa Born and pround :us: naturalized citizen.
 
 🔧   Git | Microsoft Office Tools
 
-# :computer_mouse: Computer Aided Design
+#  Computer Aided Design
+
+:computer_mouse:
 * Autodesk Inventor
 * SolidWorks
 * PTC Creo/Pro-Engineer
