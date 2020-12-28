@@ -5,6 +5,14 @@
 --> 
 
 Africa Born and pround :us: naturalized citizen.
+Feel free to check out all my repositories and email me at rgateragael@gmail.com if you are interested in collaborating.
+
+Looking for collaborators especially in the following:
+
+-> [Google Research Football Experiment](https://github.com/GateraGael/Google-Research-Football-Environment-Experiment)
+
+-> [Data Science Lifecyle in Launch Business Analytics](https://github.com/GateraGael/Data-Science-Life-cycle-in-Launch-Business-Analytics)
+
 
 ## Educational Background
 :computer: M.S. Modeling for Science and Engineering - Data Science Specialization (2020)
