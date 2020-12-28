@@ -20,8 +20,22 @@ Africa Born and pround :us: naturalized citizen.
 ## Computer Languages
 
 :snake: **Python** (favorite)
-* C/ C++ (professional competency)
+* C
+* C++
 * HTML
 * R
 * Bourne Again Shell (Bash)
 * Excel VBA
+
+## Software
+
+📈   Tableau | Google Analytics
+🔧   Git | Microsoft Office Tools
+
+# :computer_mouse: Computer Aided Design
+* Autodesk Inventor
+* SolidWorks
+* PTC Creo/Pro-Engineer
+
+
+
