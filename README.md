@@ -2,6 +2,7 @@
 
 <!--
 **GateraGael/GateraGael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--> 
 
 Africa Born and pround :us: naturalized citizen.
 
@@ -22,5 +23,3 @@ Africa Born and pround :us: naturalized citizen.
 * R
 * Bourne Again Shell (Bash)
 * Excel VBA
-
---> sfgsd
