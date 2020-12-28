@@ -24,9 +24,13 @@ Africa Born and pround :us: naturalized citizen.
 * Bourne Again Shell (Bash)
 * Excel VBA
 
-## Machine Learning Frameworks
+## Deep Learning Frameworks
 
-
+* Tensorflow 1.15.*
+* Tensorflow 2.0
+* Tensorflow-Keras
+* PyTorch
+* Matlab's Machine Learning Toolbox 
 
 ## Software
 
