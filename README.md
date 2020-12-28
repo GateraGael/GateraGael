@@ -41,7 +41,7 @@ Africa Born and pround :us: naturalized citizen.
 ## Analytics Software 📈
 
 * Google Analytics
-* Tableau 
+* Tableau - [My Tableau Public Profile](https://public.tableau.com/profile/gael.gatera#!/)
 * Microsoft Office Tools
 
 
