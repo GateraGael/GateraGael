@@ -31,6 +31,13 @@ Looking for collaborators especially in the following:
 * Bourne Again Shell (Bash)
 * Excel VBA
 
+## Human Languages
+
+* English
+* French
+* Spanish
+* Kinyarwanda
+
 ## Deep Learning Frameworks :brain:
 
 * Tensorflow 1.15.*
